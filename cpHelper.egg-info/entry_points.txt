@@ -1,0 +1,6 @@
+[console_scripts]
+chef = codeChef.__main__:main
+cpHelper = cpHelper.__main__:main
+forces = codeForces.__main__:main
+leet = leetCode.__main__:main
+
